@@ -1,7 +1,7 @@
 info:
  profile: prod
  
-from: master-form-v6
+from: master-form-v7
 management: 
  security: 
   enabled: false
