@@ -2,3 +2,6 @@ info:
  profile: prod
  
 from: master-form-v3
+management: 
+ security: 
+  enabled: false
