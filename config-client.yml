@@ -1,5 +1,6 @@
 info:
   profile: default
   from: git1
+  to: xiejin-master
   
 test: bbb
