@@ -1,6 +1,5 @@
 info:
  profile: prod
- from: master-form
  
 prod: xiejin
-from: master-form
+from: master-form-v2
